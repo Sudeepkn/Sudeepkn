@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Sudeep K N.  <br>I am a Software Engineer with 1+ years of experience in building scalable and efficient applications.  <br>I specialize in Java, Angular, J2EE, Spring, MySQL.<br><br> I enjoy developing reliable software applications, solving complex technical problems  and continuously learning new technologies.
+Hello, my name is Sudeep K N.  <br>I am a Software Engineer with 1+ years of experience in building scalable and efficient applications.  <br>I specialize in Java, Angular, J2EE, Spring, Spring Boot, Hibernate, HTML, CSS, Typescript, MySQL.<br><br> I enjoy developing reliable software applications, solving complex technical problems  and continuously learning new technologies.
 
 
 ## 🌐 Socials:
